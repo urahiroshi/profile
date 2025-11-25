@@ -2,6 +2,8 @@
 
 ## 職務経歴 (簡易版)
 
+(キャリアの変遷などは https://findy-code.io/engineer-lab/turningpoint-urahiroshi にもまとまっています)
+
 #### 2023/08 - 2025/11 株式会社ダイニー
 
 最初の４ヶ月はエンジニアとして開発業務に従事した後、Engineering Manager としてエンジニア組織全体のマネジメントを担当。エンジニア組織の組織運営・採用・技術広報などを管掌し、組織拡大を行った。
@@ -15,7 +17,7 @@
 
 #### 2023/02 - 2023/07 Career Break
 
-個人でチャットベースのメモアプリ https://site.ducknote.app を開発。
+- 個人でチャットベースのメモアプリ https://site.ducknote.app を開発 (詳細： https://urahiroshi.hatenablog.com/entry/2023/04/25/132958)
 
 #### 2017/12 - 2023/01 株式会社メルカリ
 
