@@ -4,9 +4,13 @@
 
 (キャリアの変遷などは https://findy-code.io/engineer-lab/turningpoint-urahiroshi にもまとまっています)
 
+#### 2025/12 -
+
+Learn4 (https://learn4.jp) を立ち上げ。プログラミングスクール事業 (https://learn4.jp/ps/) を開始したのち、プログラミング学習サービスをリリース。
+
 #### 2023/08 - 2025/11 株式会社ダイニー
 
-最初の４ヶ月はエンジニアとして開発業務に従事した後、Engineering Manager としてエンジニア組織全体のマネジメントを担当。エンジニア組織の組織運営・採用・技術広報などを管掌し、組織拡大を行った。
+ソフトウェアエンジニアとして開発業務に従事した後、Engineering Manager としてエンジニア組織全体のマネジメントを担当。エンジニア組織の組織運営・採用・技術広報などを管掌し、組織拡大を行った。
 
 - エンジニア組織の組織戦略の策定 (詳細: https://note.com/urahiroshi/n/n3231375a60e9, https://note.com/urahiroshi/n/n65a445a059dc)
 - AIを用いた開発プロセス (AI Native Development Process) を全社に導入し、継続的に改善を実施
